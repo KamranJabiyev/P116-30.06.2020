@@ -1,0 +1,14 @@
+.test:hover{
+    background-color: aqua;
+    cursor: pointer;
+    transition: background-color 0.5s;
+}
+
+.color{
+    color: azure;
+    background-color: black;
+}
+
+.active{
+    background-color: aqua;
+}
